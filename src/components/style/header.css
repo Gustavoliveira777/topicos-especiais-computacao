@@ -1,0 +1,18 @@
+nav{
+    display: flex;
+    max-height: 10vh;
+    min-width: 100vw;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+}
+
+.logo{
+    width: 20%;
+    height: 20%;
+}
+
+.logo-amex{
+    width: 10%;
+    height: 10%;
+}
